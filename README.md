@@ -1,4 +1,4 @@
-# League Enenmy Detection 
+# League Enemy Detection 
 
 This will be your third eye, when playing the League of Legends (Summoner Rift)
 
